@@ -2,7 +2,7 @@
 
 Tested website name: La Mode(E-Commerce)
 
-Tested Module Names:
+Tested 5 Module Names:
 1.Home Page
  2.Contact Us
  3.About Us
