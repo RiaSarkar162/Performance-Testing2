@@ -7,15 +7,17 @@ I’ve completed performance test on ❖frequently used API for La Mode website.
 ❖ Test Report Generate on HTML. 
 Test executed for the below mentioned scenario in server 10.0.22000.978
 
-Tested 5 Module Names:
+5 HTTP Request has been used.Those are:
 
-❖Home Page
+❖https://lamodebd.com/
 
- ❖Contact Us
+ ❖https://lamodebd.com/collections/monsoon-collection-1
  
- ❖About Us
+ ❖https://lamodebd.com/pages/aboutus
  
-❖Collections(Monsoon Collection)
+❖https://lamodebd.com/pages/contact-us
  
- ❖Store loaction
+ ❖https://lamodebd.com/pages/store-location-2
+ 
+❖https://lamodebd.com/blogs/news
 
