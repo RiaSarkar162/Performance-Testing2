@@ -27,5 +27,8 @@ I’ve completed performance test on ❖frequently used API for La Mode website.
 ❖Ramp-up period 10 seconds.
 
 ❖Loop Count 1
+
+
  
- 
+ ![jmeter 1](https://user-images.githubusercontent.com/68694418/194819806-c7c1c14b-a4b4-4957-8e7e-08c0abedffbb.png)
+
