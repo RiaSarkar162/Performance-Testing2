@@ -22,4 +22,10 @@ I’ve completed performance test on ❖frequently used API for La Mode website.
 ❖https://lamodebd.com/blogs/news
 
  ###  Scenario 1.
+ ❖5 users click on the site at the same time
+
+❖Ramp-up period 10 seconds.
+
+❖Loop Count 1
+ 
  
