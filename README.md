@@ -28,8 +28,16 @@ I’ve completed performance test on ❖frequently used API for La Mode website.
 
 ❖Loop Count 1
 
+5 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 8 And Total Concurrent API requested:575.
+While executed 5 concurrent request, found 2 request got connection timeout and error rate is 0.35%. 
+
+
+
 
  ### Total Transactions Per Second
 
  ![jmeter 1](https://user-images.githubusercontent.com/68694418/194819806-c7c1c14b-a4b4-4957-8e7e-08c0abedffbb.png)
+ 
+ The Avg number for Total Transactions Per Second 8 transactions/per second.
 
+ 
