@@ -39,5 +39,15 @@ While executed 5 concurrent request, found 2 request got connection timeout and 
  ![jmeter 1](https://user-images.githubusercontent.com/68694418/194819806-c7c1c14b-a4b4-4957-8e7e-08c0abedffbb.png)
  
  The Avg number for Total Transactions Per Second 8 transactions/per second.
+ 
+  ###  Scenario 2.
+ ❖10 users click on the site at the same time
+
+❖Ramp-up period 10 seconds.
+
+❖Loop Count 1
+
+10 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 7.5 And Total Concurrent API requested:1150.
+While executed 10 concurrent request, found 10 request got connection timeout and error rate is 0.87%. 
 
  
